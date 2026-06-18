@@ -1,17 +1,10 @@
 # Men Stack Relating Data Lab Cookbook
 A full-stack cookbook app built to practice relating data in MongoDB.
 
-## Screenshot/Logo
-Add a screenshot here.
-
 ## Description
 This project was built to practice working with related data in a full-stack app. It focuses on how different pieces of information connect together inside MongoDB, while also using Express and EJS to let users interact with the data.
 
 It was a useful way to improve my understanding of database relationships, full-stack structure, and building more connected features.
-
-## Deployment Link
-**Live App:**  
-Add your deployed link here if available.
 
 ## Planning
 Before building, the main focus was understanding how the different data models would connect.
